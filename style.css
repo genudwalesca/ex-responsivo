@@ -1,0 +1,10 @@
+@import url(estilos/header.css);
+
+:root{
+    --amarelo: yellow; --fundo-azul:blue;
+
+}
+body{
+    background-color: yellow;
+    margin: 0; font-family: var(--fonte-projeto);
+ }
