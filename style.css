@@ -1,7 +1,7 @@
 @import url(estilos/header.css);
 
 :root{
-    --amarelo: yellow; --fundo-azul:blue;
+    --amarelo: yellow; --fundo-azul:rgb(59, 206, 186);
 
 }
 body{
