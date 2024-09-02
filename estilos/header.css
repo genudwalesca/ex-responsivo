@@ -9,7 +9,7 @@
     width: 120px; height: 120px;
 }
 .container__titulo, .container__imagem, .container__frase{
-    padding: 0.1; color: white;
+    padding: 0.1; color: rgb(0, 0, 0);
 }
 .container__titulo, .container__frase{
     display: none;
